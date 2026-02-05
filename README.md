@@ -92,7 +92,7 @@ Structured error responses
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/Shreybaba.git
+git clone https://github.com/shreyakMalik/Shreybaba.git
 cd Shreybaba
 
 2️⃣ Install dependencies

@@ -1,17 +1,31 @@
-## Intro to the Project
-This is the backend for the [ecommerce-project](https://github.com/SuperSimpleDev/ecommerce-project).
-- 95% of the code was generated with AI.
+A simple and scalable backend API for an e-commerce application built using Node.js and Express. This project focuses on core e-commerce functionality such as product management, cart handling, and order processing, and is designed to be consumed by a web or mobile frontend.
 
-## Video Tutorials
-**Part 1 - Create the Backend:** https://youtu.be/vBprybSmJs8
+⚠️ Note: This backend currently does not include a user authentication or login system.
 
-## Set up this backend
-1. Make sure you have NodeJS installed (version 22+). If not, [click here to install](https://nodejs.org/).
-2. Download this code by clicking the green `Code` button (in the top-right) > Click `Download Zip`.
-3. Unzip the code. On Windows, right-click the zip file > `Extract All`. On Mac, double-click the zip file.
-4. Open this code in VSCode.
-5. At the top menu of VSCode, click `Terminal` > `New Terminal`.
-6. In the Terminal, run `npm install`, and run `npm run dev`.
+🚀 Features
 
-## Troubleshooting
-If you run into issues, see the [troubleshooting steps](troubleshooting.md).
+Product management (CRUD operations)
+
+Category management
+
+Cart functionality
+
+Order creation
+
+RESTful API architecture
+
+Clean project structure
+
+Centralized error handling
+
+Environment-based configuration
+
+🛠 Tech Stack
+
+Runtime: Node.js
+
+Framework: Express.js
+
+Database: MongoDB 
+
+API Style: REST
